@@ -34,7 +34,7 @@ Yes you do.
 
 You need to add the `[fcdp]` to the body of the post/page in the editors HTML mode.
 
-= What is the size of the contact form? =
+= What is the size of the plugin? =
 
 280x170 (widthxheight in pixels)
 
