@@ -21,7 +21,7 @@ Use the following steps to install the Flex Contact Form
 1. Upload the flash-countdown-plugin folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Fill the options page 'Settings -> Flash CountDown Options'
-1. Place `[fcd]` on the page and the Flash CountDown Plugin will appear.
+1. Place `[fcdp]` on the page and the Flash CountDown Plugin will appear.
 1. Or the Flash Countdown Plugin as a widget to your sidebar.
 
 == Frequently Asked Questions ==
@@ -32,7 +32,7 @@ Yes you do.
 
 = How do I add the Flash CountDown Plugin form to a post/page? =
 
-You need to add the `[fcd]` to the body of the post/page in the editors HTML mode.
+You need to add the `[fcdp]` to the body of the post/page in the editors HTML mode.
 
 = What is the size of the contact form? =
 
