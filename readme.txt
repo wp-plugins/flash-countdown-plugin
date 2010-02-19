@@ -12,11 +12,11 @@ A count down plugin made in Adobe Flash and Flex.
 
 With the count down plugin you are able to count down for your visitors to a certain Date. When this date is reached, a custom image will be shown (which can be defined by yourself).
 
-This plugin is Widget enabled, so you are able to add it to your sidebar just by drag and drop.
+This plugin is Widget enabled, so you are able to add it to your sidebar just by drag and drop and your counter is ready!
 
 == Installation ==
 
-Use the following steps to install the Flex Contact Form
+Use the following steps to install the Flash CountDown Plugin
 
 1. Upload the flash-countdown-plugin folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
